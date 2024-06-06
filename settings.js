@@ -32,21 +32,21 @@ global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com' //Link Instagrammu
 global.sgh = 'https://github.com/Nayla-Hanifah' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IrFeKGgeIJ46m6IIGogYKc' //link Group mu
-global.sch = 'https://whatsapp.com/channel/0029VaEkiXhD38CPyrDyQK3c' //Link Saluran Wa mu Kalo Gada Biarin aja
+global.sgc = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4' //link Group mu
+global.sch = 'https://chat.whatsapp.com/CZ5FCfAXnqN3gvtnizRZg4' //Link Saluran Wa mu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
         
 /*============== STAFF ==============*/
-global.owner = ['6287792911529', '6285775496304']  
-global.mods = ['6287792911529'] 
+global.owner = ['6285766450735']  
+global.mods = ['6285766450735'] 
 global.prems = ['']
 global.nameown = 'Nayla'
-global.numberowner = '6287792911529' 
+global.numberowner = '6285766450735' 
 global.mail = 'hnayla225@gmail.com' 
 
 /*============== PAYMENT ==============*/
-global.dana = '085775496304'
-global.pulsa = '6285775496304 (indosat)'
+global.dana = '0'
+global.pulsa = '(indosat)'
 
 /*============== WATERMARK ==============*/
 global.namebot = 'Hᴜᴏ Yᴜʜᴀᴏ'
